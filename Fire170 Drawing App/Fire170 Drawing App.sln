@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{12FB0E97-5E41-1EB4-9116-DC8AF060A0E4}") = "Fire170 Drawing App", "Assembly-CSharp.csproj", "{16EB9E56-00E6-3480-CAC5-CDBFE5C0DF01}"
+EndProject
+Project("{12FB0E97-5E41-1EB4-9116-DC8AF060A0E4}") = "Fire170 Drawing App", "Assembly-CSharp-Editor.csproj", "{19773B98-CDEA-BDB2-34DF-9D11BC087A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EB9E56-00E6-3480-CAC5-CDBFE5C0DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EB9E56-00E6-3480-CAC5-CDBFE5C0DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EB9E56-00E6-3480-CAC5-CDBFE5C0DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EB9E56-00E6-3480-CAC5-CDBFE5C0DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19773B98-CDEA-BDB2-34DF-9D11BC087A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19773B98-CDEA-BDB2-34DF-9D11BC087A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19773B98-CDEA-BDB2-34DF-9D11BC087A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19773B98-CDEA-BDB2-34DF-9D11BC087A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
